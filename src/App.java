@@ -4,6 +4,6 @@ public class App {
         System.out.println("Hello, also world!");
 
         int x = 0;
-        x= 1+1;
+    
     }
 }
